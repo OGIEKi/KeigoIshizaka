@@ -1,4 +1,4 @@
-# G'day DESU
+# G'day DESU, My name is Keigo Ishizaka (K-GO)
 
 ## Background  ////////////
   - PR in Australia
@@ -17,3 +17,4 @@
        - Analysis
        - Visualization
        - Engineering 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
