@@ -12,6 +12,7 @@
     - VBA | API
     - Python | API
     - PHP | HTML | CSS | JS
+    - SQL
   - Cyber Security
     - Pen Tools
     - Analysis Tools
