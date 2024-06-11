@@ -14,8 +14,9 @@
     - PHP | HTML | CSS | JS
     - SQL
   - Cyber Security
-    - Pen Tools
+    - PenTest Tools
     - Analysis Tools
+    - Incident Analysis 
   - Data
     - Analysis
     - Visualization
@@ -26,8 +27,15 @@
     - Photo | Video production
     - Booklet
     - Branded Environment
+  - Warehouse
+    - Forklift Drive
+    - Inventory Management
+    - Relocation | Rearrangement
+  - Sales
+    - EXPO
+    - Customer Service
 
-## Field Experiences
+## Application Experiences
   - WordPress & WooCommerce
   - M365
   - Ticketing System
@@ -40,6 +48,9 @@
     - Omnivore
   - Multi-Channel Seller Portal
     - Amazon | Catch | Kogan | eBay
+  - ERP
+    - Pronto Xi
+  - Warehouse 
  
 
 
